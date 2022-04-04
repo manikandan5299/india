@@ -1,4 +1,7 @@
 tamilnadu
 kerala
 
-tamilnadu
+tamilnadu:
+
+language:tamil.
+capital: chennai.
